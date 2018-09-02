@@ -1,0 +1,5 @@
+main: com.gmail.shellljx.MultiServerChat.MultiServerChat
+name: MultiServerChatServer
+version: 1.1.0
+author: shell
+depend: [Vault]
